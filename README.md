@@ -20,6 +20,65 @@ We will implement both of these approaches
 
 # Creating an Amazon Cognito User Pool
 
+</br>
+
+![image](https://github.com/user-attachments/assets/9d8a3fa7-6204-4cf2-ae41-53b6654d332d)
+
+
+----
+
+
+![image](https://github.com/user-attachments/assets/4ccaebcd-de9b-497e-b1a3-5d6699c8c7af)
+
+
+-----
+
+## Overview
+
+</br>
+
+![image](https://github.com/user-attachments/assets/d5c3ac69-cb7e-420c-a828-9b5f1789a39b)
+
+-----
+
+
+## Password policy 
+
+</br>
+
+![image](https://github.com/user-attachments/assets/557c454d-1cb4-43c2-8bf2-56b216a82f74)
+
+-----
+
+![image](https://github.com/user-attachments/assets/2664a543-76d0-48da-a32c-a924a09b8240)
+
+
+----
+
+
+</br>
+
+## Multi-factor authentication 
+
+</br>
+
+![image](https://github.com/user-attachments/assets/f0768eac-1cb3-4883-8c61-eb492f247a8d)
+
+----
+
+![image](https://github.com/user-attachments/assets/cdb1c0dd-ed55-4e79-8fd4-e0f0d78762e4)
+
+
+--------
+
+## User account recovery
+
+</br>
+
+![image](https://github.com/user-attachments/assets/41ce3dce-6c14-434e-a0b2-f4dfaa21495e)
+
+
+
 
 # References
 
