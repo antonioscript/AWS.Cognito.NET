@@ -1,6 +1,31 @@
 # AWS.Cognito.NET
 This repository demonstrates how to integrate Amazon Cognito with .NET applications. It covers user authentication and authorization workflows using AWS Cognito's User Pools and Identity Pools
 
+# Summary
+
+- [AWS Cognito](#aws-cognito)
+  - [User pools](#user-pools)
+  - [Identity pools](#identity-pools)
+  - [Federated identities](#federated-identities)
+  - [Multi-Factor Authentication (MFA)](#multi-factor-authentication-mfa)
+
+- [Application](#application)
+  - [Client Credentials Flow & Password Grant Flow](#client-credentials-flow--password-grant-flow)
+
+- [Creating an Amazon Cognito User Pool](#creating-an-amazon-cognito-user-pool)
+  - [Overview](#overview)
+  - [Password policy](#password-policy)
+  - [Multi-factor authentication](#multi-factor-authentication)
+  - [User account recovery](#user-account-recovery)
+  - [Self-service sign-up](#self-service-sign-up)
+  - [Attribute verification and user account confirmation](#attribute-verification-and-user-account-confirmation)
+
+- [Client Credentials Flow: Setup & Testing](#client-credentials-flow-setup--testing)
+  - [Resource servers](#resource-servers)
+
+- [References](#references)
+
+
 # AWS Cognito
 Key features of Amazon Cognito include:
 
