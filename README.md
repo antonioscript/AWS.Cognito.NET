@@ -77,6 +77,51 @@ We will implement both of these approaches
 
 ![image](https://github.com/user-attachments/assets/41ce3dce-6c14-434e-a0b2-f4dfaa21495e)
 
+-----
+
+</br>
+
+![image](https://github.com/user-attachments/assets/5f4d77c6-db0d-4320-86f3-c255086da8fe)
+
+
+## Self-service sign-up
+
+</br>
+
+
+![image](https://github.com/user-attachments/assets/3ce48325-a1d0-4400-95d5-94045afad9c1)
+
+----
+
+![image](https://github.com/user-attachments/assets/967aadb9-ceae-45c8-b7ed-604aae4001e8)
+
+---------
+
+## Attribute verification and user account confirmation
+
+</br>
+
+![image](https://github.com/user-attachments/assets/eb3d5350-c067-4d48-8a5c-d63d4f9a52ac)
+
+
+
+----
+
+![image](https://github.com/user-attachments/assets/816f40ff-1387-42cc-99e0-b2afc51eeecc)
+
+----
+
+
+# Client Credentials Flow: Setup & Testing
+
+## Resource servers
+
+![image](https://github.com/user-attachments/assets/e3c82b06-dd75-44dc-9351-9a96febc606d)
+
+---
+
+![image](https://github.com/user-attachments/assets/b79f3eaa-e50b-4819-bbcc-af25fc103711)
+
 
 
 
